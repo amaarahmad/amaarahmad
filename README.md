@@ -3,7 +3,7 @@
 - 🔭 I’m currently working on Flutter
 - 💬 Ask me anything about Flutter 
 - 📫 How to reach me: amaarahmad03@gmail.com
-- 😄 My Portfolio: https://amaarahmad.github.io/
+- 💻 My Portfolio: https://amaarahmad.com
   
 ### Connect with me:
 <div id="badges">
