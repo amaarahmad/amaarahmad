@@ -10,7 +10,7 @@
   <a href="https://github.com/amaarahmad">
     <img src="https://img.shields.io/badge/Github-white?style=for-the-badge&logo=Github&logoColor=black" alt="Github Badge"/>
   </a>
-   <a href="https://www.instagram.com/_khokhar___">
+   <a href="https://www.instagram.com/amaar.dev">
     <img src="https://img.shields.io/badge/Instagram-purple?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
   </a>
    <a href="https://fb.com/">
